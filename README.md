@@ -9,6 +9,7 @@ For method details, please refer to the paper "Building instance segmentation ne
 The metadata information  follows as table:
 
 ![metadata information](https://user-images.githubusercontent.com/15941731/183740607-24427d53-6b9d-4295-b9f9-51df8f1df82f.jpg)
+![image](https://user-images.githubusercontent.com/15941731/183751773-a3bc4f2b-e411-4cb0-a6c7-0ba9a522a9da.png)
 
 
 
