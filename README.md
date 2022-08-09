@@ -6,7 +6,7 @@ For method details, please refer to the paper "Building instance segmentation ne
 
 ![image](https://user-images.githubusercontent.com/15941731/183735499-82258816-ba97-4853-9bdf-06da5c215077.png)
 
-The metadata information  follows as table:
+We established a building instance segmentation dataset (BISM) using multimodal remote sensing data. The BISM dataset covers 60 square kilometers in Boston, Massachusetts, USA, and contains about 39527 building objects. BISM can be downloaded via http://bismdataset.mikecrm.com/Yc5qJZD. The metadata information  follows as table:
 
 ![metadata information](https://user-images.githubusercontent.com/15941731/183740607-24427d53-6b9d-4295-b9f9-51df8f1df82f.jpg)
 LiDAR/image ![image](https://user-images.githubusercontent.com/15941731/183751773-a3bc4f2b-e411-4cb0-a6c7-0ba9a522a9da.png)  ![image](https://user-images.githubusercontent.com/15941731/183759807-768f595f-91e5-4a70-b8e9-450bb7b95bdf.png) NDVI ![image](https://user-images.githubusercontent.com/15941731/183759907-ec2f2790-2f38-4940-bb91-f34c2067bbfd.png) DEM ![image](https://user-images.githubusercontent.com/15941731/183760246-e57dbba4-27bd-4482-b6e1-f2c6595210f5.png) Ground-truth
@@ -16,5 +16,5 @@ LiDAR/image ![image](https://user-images.githubusercontent.com/15941731/18375177
 
 
 
-We established a building instance segmentation dataset (BISM) using multimodal remote sensing data. The BISM dataset covers 60 square kilometers in Boston, Massachusetts, USA, and contains about 39527 building objects. BISM can be downloaded via http://bismdataset.mikecrm.com/Yc5qJZD
+
 
