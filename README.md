@@ -1,6 +1,6 @@
 # Building-instance-segmentation
 
- This is a building instance segmentation network combining multi-task deep learning and multi-modal remote sensing data including LiDAR features and optical image features. The backbone network is fed  with multispectral images based on resnet50, and the branch network is input with LiDAR products based on resnet18. In the module files, the Depthawaregate layer and Spectralawaregate layer are embedded into the residual network structure to fuse the multi-modal features. The non_localgate layer construct a cross level global context model. ACPD is a detector based on CenerNet, which introduces deformation convolution operation in supervised learning.
+ This is a building instance segmentation network combining multi-task deep learning and multi-modal remote sensing data including LiDAR features and optical image features. The backbone network is fed  with multispectral images based on resnet50, and the branch network is input with LiDAR products based on resnet18. In the module files, the Depthawaregate layer and Spectralawaregate layer are embedded into the residual network structure to fuse the multi-modal features. The non_localgate layer construct a cross level global context model. ACPD is a detector based on CenterNet, which introduces deformation convolution operation in supervised learning.
  
 For method details, please refer to the paper "https://www.mdpi.com/2072-4292/14/19/4920". The code is completed by Tensorflow-Keras 2.0. Rasterio / GDAL require installation to load data.
 
